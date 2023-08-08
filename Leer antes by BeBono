@@ -1,0 +1,13 @@
+
+Funcionalidad del código: Aplición de lista de tareas, por lo tanto se puede:
+1. Crear tareas.
+2. Editar tareas.
+3. Marcar como completadas.
+4. Eliminar.
+5. Mantener guardadas aquellas tareas ("localmente") que no se hayan borrado, aún si el servidor de React se reinicia. 
+
+Pasos:
+
+1. Clonar el repositotio: git clone https://github.com/BeBono/uqwxd-react_labs.git
+2. Al abrirlo en Visual Studio Code, luego de instalar los módulos dependientes con 'npm install', se debe ejecutar 'npm audit fix --force' ya que al parecer hay algunos paquetes que no están soportados/actualizados.
+3. Ejecutar 'npm start'
